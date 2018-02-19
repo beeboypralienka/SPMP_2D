@@ -9,3 +9,4 @@ test test test
 
 
 B. Dokumen-dokumen dalam Project
+ini dokumen SPMP segabagi dokumen untuk memulai suatu project, dan ini wajib ada dalam sebuah project untuk memenuhi dokumen project
