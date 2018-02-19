@@ -9,3 +9,6 @@ test test test
 
 
 B. Dokumen-dokumen dalam Project
+Beberapa dokumen yang akan dikerjakan selama masa pembangunan perangkat lunak yaitu:
+1. SPMP (Software Project Management Plan)
+1. SRS (Software Requirement Specification)
