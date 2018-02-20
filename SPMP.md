@@ -12,3 +12,5 @@ B. Dokumen-dokumen dalam Project
 Ini dokumen SPMP segabagi dokumen untuk memulai suatu project, dan ini wajib ada dalam sebuah project untuk memenuhi dokumen project. Beberapa dokumen yang akan dikerjakan selama masa pembangunan perangkat lunak yaitu:
 1. SPMP (Software Project Management Plan)
 1. SRS (Software Requirement Specification)
+
+![Logo Windows](/img/windos.jpg)
