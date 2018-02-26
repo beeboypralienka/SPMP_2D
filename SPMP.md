@@ -1,3 +1,5 @@
+![Contoh Image](http://i67.tinypic.com/nb8kj.jpg)
+
 **Versi 1.5**
 
 SPMP (Software Project Management Plan)
