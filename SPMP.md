@@ -18,3 +18,4 @@ Ini dokumen SPMP segabagi dokumen untuk memulai suatu project, dan ini wajib ada
 1. SRS (Software Requirement Specification)
 
 ![Logo Windows](/img/windos.jpg)
+![test gambar](https://preview.ibb.co/diaonc/About_Us_flip.jpg)
